@@ -12,6 +12,7 @@ https://platform.openai.com
    
 ## Set your API key:
 apiKey = input("Enter API key: ")
+
 API_Token = OpenAI(api_key=input)
 
 Usage
