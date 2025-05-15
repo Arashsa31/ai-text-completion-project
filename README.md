@@ -20,8 +20,8 @@ python text_completion_app.py
 Enter prompts when prompted; the app will return AI-generated completions.
 
 Dependencies
-    Python 3.7+
-    openai Python package
-    
+Python 3.7+
+openai Python package
+
 Notes
-    Keep your API key secure; do not share publicly.
+Keep your API key secure; do not share publicly.
