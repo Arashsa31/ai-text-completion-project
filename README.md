@@ -1,1 +1,1 @@
-# ai-text-completion-project
+This project involves building a Python app that uses OpenAI’s API to generate text completions from user prompts. This project explored prompt design, adjust model settings, and handle input validation and errors. The app interacts with OpenAI’s GPT model to produce coherent and relevant responses. This project also evaluate the model’s performance, reflect on its limitations.
