@@ -15,7 +15,7 @@ apiKey = input("Enter API key: ")
 
 API_Token = OpenAI(api_key=input)
 
-Usage
+## Usage
 
 Run the script:
 
@@ -23,12 +23,12 @@ python text_completion_app.py
 
 Enter prompts when prompted; the app will return AI-generated completions.
 
-Dependencies
+## Dependencies
 
 Python 3.7+
 
 openai Python package
 
-Notes
+## Notes
 
 Keep your API key secure; do not share publicly.
