@@ -7,13 +7,12 @@ This project involves building a Python app that uses OpenAI’s API to generate
 2. Install dependencies:  
    pip install openai
 
-    Get your OpenAI API key from OpenAI Platform:
-    https://platform.openai.com
+## Get your OpenAI API key from OpenAI Platform:
+https://platform.openai.com
    
-    Set your API key as an environment variable:
-    ## your_api_key_here
-    apiKey = input("Enter API key: ")
-    API_Token = OpenAI(api_key=input)
+## Set your API key:
+apiKey = input("Enter API key: ")
+API_Token = OpenAI(api_key=input)
 
 Usage
 Run the script:
